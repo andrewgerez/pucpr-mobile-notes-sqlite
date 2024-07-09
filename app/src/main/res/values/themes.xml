@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Pucprnotessqlite" parent="Theme.Material3.DayNight.NoActionBar">
+       <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryVariant">@color/purple</item>
+        <item name="android:statusBarColor">@color/purple</item>
+    </style>
+
+    <style name="Theme.Pucprnotessqlite" parent="Base.Theme.Pucprnotessqlite" />
+</resources>
